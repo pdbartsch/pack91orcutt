@@ -1,0 +1,38 @@
+<section class="section hero is-fullheight" itemscope itemtype="http://schema.org/HomePage">
+	<div class="hero-head">
+		{{ partial "nav.html" . }}
+	</div>
+	<div class="hero-body">
+		<div class="container">
+			<div class="columns">
+				<div class="column is-8 is-offset-2 has-text-centered">
+
+
+					<div class="content">
+					{{ .Content }}
+					<figure class="image is-502x73" >
+  					<img src="title.png">
+					</figure>
+
+					<h2>Welcome!</h2>
+						<p>Thank you for your interest in Cub Scouts. We have information here about upcoming events, <a href="about">About Our Pack,</a> and <a href="join">How to Join</a>. Please join us at any upcoming event or call 253-CUBS for further information. Invite your friends to any of our pack or den events. Help spread the fun of Scouting with us!</p>
+						<p><span>Like us on Facebook:</span> <a href="https://www.facebook.com/pages/Pack-91-of-Orcutt-CA/156572197687589" target="_blank" title="Like Pack 91 on Facebook"><img src="./index_files/likeonfacebook.png" border="0" width="25" height="25"></a></p>
+					</div>
+					<div class="columns">
+						<div class="column">
+							<h2>Upcoming Events Calendar</h2>
+							<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=310&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8erjh6chau1fm4rq5ndfhi1rpg%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="450" height="310" frameborder="0" scrolling="no"></iframe>
+						</div>
+						<div class="column">
+							<h2>Pack Photos</h2>
+							<a data-flickr-embed="true"  href="https://www.flickr.com/photos/osospdb/albums/72157695681255915" title="Pack 91 Orcutt"><img src="https://farm1.staticflickr.com/883/27604563468_9b704a45e7.jpg" width="500" height="375" alt="Pack 91 Orcutt"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="hero-foot">
+{{ partial "footer.html" . }}
+	</div>
+</section>
