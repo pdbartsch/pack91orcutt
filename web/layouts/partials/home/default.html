@@ -5,19 +5,34 @@
 	<div class="hero-body">
 		<div class="container">
 			<div class="columns">
-				<div class="column is-8 is-offset-2 has-text-centered">
 
+
+
+
+				<div class="column is-8 is-offset-2">
 
 					<div class="content">
 					{{ .Content }}
-					<figure class="image is-502x73" >
+					<figure class="image is-514x85" >
   					<img src="img/title.png">
 					</figure>
+						<h2>Welcome!</h2>
+							<p>Thank you for your interest in Cub Scouts. We have information here for current and future scouts and parents. </p>
+							<p>Please join us at any upcoming event or call 253-CUBS for further information.</p>
 
-					<h2>Welcome!</h2>
-						<p>Thank you for your interest in Cub Scouts. We have information here about upcoming events, <a href="about">About Our Pack,</a> and <a href="join">How to Join</a>. Please join us at any upcoming event or call 253-CUBS for further information. Invite your friends to any of our pack or den events. Help spread the fun of Scouting with us!</p>
-						<p><span>Like us on Facebook:</span> <a href="https://www.facebook.com/pages/Pack-91-of-Orcutt-CA/156572197687589" target="_blank" title="Like Pack 91 on Facebook"><img src="img/likeonfacebook.png" border="0" width="25" height="25"></a></p>
+						<div class="content front">
+								<h3 class="subtitle has-text-primary is-marginless">Recent Posts:</h3>
+								<ul>
+								{{ range first 3 (where .Site.Pages "Params.series" "front") }}
+								<li><a href="{{.Permalink}}"><span class="icon">✎</span>{{.Dir}}{{.Title }}</a></li>
+								{{ end }}
+								<li><a href="{{ "posts/" | absURL}}">More posts<span class="icon">➤</span></a></li>
+								</ul>
+						</div>
+
 					</div>
+
+
 					<div class="columns">
 						<div class="column">
 							<h2>Upcoming Events Calendar</h2>
@@ -28,6 +43,7 @@
 							<a data-flickr-embed="true"  href="https://www.flickr.com/photos/osospdb/albums/72157695681255915" title="Pack 91 Orcutt"><img src="https://farm1.staticflickr.com/883/27604563468_9b704a45e7.jpg" width="500" height="375" alt="Pack 91 Orcutt"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 						</div>
 					</div>
+
 				</div>
 			</div>
 		</div>

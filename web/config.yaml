@@ -107,10 +107,10 @@ params:
               <a href="https://myscouting.scouting.org/">My Scouting</a> |
               <a href="http://www.lpcbsa.org/">Los Padres Council</a> |
               <a href="http://www.doubleknot.com/openrosters/view_homepage.asp?orgkey=1647">Live Oak District</a> |
-              <a href="http://www.troop91orcutt.org/">Troop 91</a>
-
+              <a href="http://www.troop91orcutt.org/">Troop 91</a>  |
+              <a href="http://post534orcutt.org/">The American Legion Post 534</a>
             </p>'
-    subfooter: '<a href="http://post534orcutt.org/">The American Legion, Post 534</a>'
+    subfooter: '<p><span>Like us on Facebook:</span> <a href="https://www.facebook.com/pages/Pack-91-of-Orcutt-CA/156572197687589" target="_blank" title="Like Pack 91 on Facebook"><img src="img/likeonfacebook.png"  width="25" height="25" align="top"></a></p>'
 
     # Optional information used in RSS, Atom and JSON-LD microdata. See Schema.org.
     publisher:
@@ -159,15 +159,20 @@ menu:
           parent: "resources"
           weight: 402
 
+        - name: "Posts"
+          url: "posts/"
+          identifier: "posts"
+          weight: 50
+
         - name: "Parent Committee Meetings"
           url: "committee/"
           identifier: "committee"
-          weight: 50
+          weight: 60
 
         - name: "Meeting Minutes"
-          url: "committee/minutes/"
+          url: "minutes/"
           parent: "committee"
-          weight: 501
+          weight: 601
 
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------

@@ -4,7 +4,7 @@ date: 2018-04-16T11:17:17-07:00
 draft: true
 ---
 
-About Our Pack
+[About Our Pack](link.html)
 Cub Scout Pack 91, Orcutt, is a family-friendly Scouting group. We strive to provide a complete Cub Scout experience to our scouts. Dedicated trained leadership and a strong structure are key to our success. We are an adventure Pack, offering opportunities to camp, hike, learn and serve our community while having fun together.
 
 You can always find up-to-date information here at our website, or call us at (805) 253-CUBS with questions about our Pack or upcoming events.
