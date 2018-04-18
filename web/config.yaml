@@ -1,4 +1,5 @@
 
+
 # Mandatory $.Site Variables ---------------------------------------------
 # Site variables are built-in to the Hugo application and can be accessed using
 # the {{ $.Site.variablename }} template directive.
@@ -82,6 +83,7 @@ enableEmoji: false
 
 # Access in templates via $.Site.Params.somevariablename
 params:
+    googleMapsAPIKey: "AIzaSyDKNUn3IrJKZEpXDEXglC5Q5AX2iKJ2m70"
     # debug: true causes template path to be output at top of page, handy for dev
     debug: false
 
@@ -164,7 +166,7 @@ menu:
           identifier: "posts"
           weight: 50
 
-        - name: "Parent Committee Meetings"
+        - name: "Parent Committee"
           url: "committee/"
           identifier: "committee"
           weight: 60

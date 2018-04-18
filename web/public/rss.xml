@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cub Scout Pack 91 Orcutt</title>
+    <link>http://pack91orcutt.org/</link>
+    <description>Recent content on Cub Scout Pack 91 Orcutt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pack 91 Orcutt</copyright>
+    <lastBuildDate>Tue, 17 Apr 2018 17:14:20 -0700</lastBuildDate>
+    
+	<atom:link href="http://pack91orcutt.org/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>http://pack91orcutt.org/posts/welcome/</link>
+      <pubDate>Tue, 17 Apr 2018 17:14:20 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/posts/welcome/</guid>
+      <description>Thanks for stopping by the new site for Cub Scout Pack 91 in Orcutt, CA!
+Please check back here often and make sure to subscribe to our new calendar.</description>
+    </item>
+    
+    <item>
+      <title>Events Calendar</title>
+      <link>http://pack91orcutt.org/events-calendar/</link>
+      <pubDate>Tue, 17 Apr 2018 16:43:50 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/events-calendar/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>March 2018 Minutes</title>
+      <link>http://pack91orcutt.org/minutes/march-2018-minutes/</link>
+      <pubDate>Tue, 17 Apr 2018 16:28:43 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/minutes/march-2018-minutes/</guid>
+      <description>Our adopted parent committee minutes will be posted here each month.
+You can view or download using the controls below.</description>
+    </item>
+    
+    <item>
+      <title>Parent Committee</title>
+      <link>http://pack91orcutt.org/committee/</link>
+      <pubDate>Mon, 16 Apr 2018 11:19:45 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/committee/</guid>
+      <description>Parent committee meetings are normally held the second Sunday of the month from 6:30-8:00PM at Gloria Dei Lutheran Church. Dates occasionally change so please refer to our events calendar.</description>
+    </item>
+    
+    <item>
+      <title>Resources coming soon ...</title>
+      <link>http://pack91orcutt.org/resources/resource-two/</link>
+      <pubDate>Mon, 16 Apr 2018 11:19:00 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/resources/resource-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources coming soon ...</title>
+      <link>http://pack91orcutt.org/resources/resource-one/</link>
+      <pubDate>Mon, 16 Apr 2018 11:18:50 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/resources/resource-one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to Join</title>
+      <link>http://pack91orcutt.org/join/</link>
+      <pubDate>Mon, 16 Apr 2018 11:17:55 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/join/</guid>
+      <description>Anytime is a great time to join Pack 91!
+Call us at (805) 253-CUBS to find out about our next Pack activity, and how you can join us.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://pack91orcutt.org/contact/</link>
+      <pubDate>Mon, 16 Apr 2018 11:17:41 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/contact/</guid>
+      <description>Pack leaders may be contacted through the Pack phone number (805) 253-CUBS
+You can also send us a message through our Facebook page.</description>
+    </item>
+    
+    <item>
+      <title>About Our Pack</title>
+      <link>http://pack91orcutt.org/about/</link>
+      <pubDate>Mon, 16 Apr 2018 11:17:17 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/about/</guid>
+      <description>Cub Scout Pack 91, Orcutt, is a family-friendly Scouting group. We strive to provide a complete Cub Scout experience to our scouts.</description>
+    </item>
+    
+  </channel>
+</rss>

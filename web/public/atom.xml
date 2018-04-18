@@ -1,0 +1,115 @@
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Cub Scout Pack 91 Orcutt</title>
+	<link href="http://pack91orcutt.org/atom.xml" rel="self"/>
+	<link href="http://pack91orcutt.org/"/>
+	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
+	<updated>2018-04-17T17:14:20-07:00</updated>
+	<id>http://pack91orcutt.org/</id>
+	<author>
+		<name>Pack 91</name>
+	</author>
+  <entry>
+	<title>Welcome!</title>
+    <link href="http://pack91orcutt.org/posts/welcome/"/>
+	<id>http://pack91orcutt.org/posts/welcome/</id>
+    <published>2018-04-17T17:14:20-07:00</published>
+    <updated>2018-04-17T17:14:20-07:00</updated>
+	<content type="html"><![CDATA[
+Thanks for stopping by the new site for Cub Scout Pack 91 in Orcutt, CA!
+Please check back here often and make sure to subscribe to our new calendar.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Events Calendar</title>
+    <link href="http://pack91orcutt.org/events-calendar/"/>
+	<id>http://pack91orcutt.org/events-calendar/</id>
+    <published>2018-04-17T16:43:50-07:00</published>
+    <updated>2018-04-17T16:43:50-07:00</updated>
+	<content type="html"><![CDATA[
+ 
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>March 2018 Minutes</title>
+    <link href="http://pack91orcutt.org/minutes/march-2018-minutes/"/>
+	<id>http://pack91orcutt.org/minutes/march-2018-minutes/</id>
+    <published>2018-04-17T16:28:43-07:00</published>
+    <updated>2018-04-17T16:28:43-07:00</updated>
+	<content type="html"><![CDATA[
+Our adopted parent committee minutes will be posted here each month.
+You can view or download using the controls below.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Parent Committee</title>
+    <link href="http://pack91orcutt.org/committee/"/>
+	<id>http://pack91orcutt.org/committee/</id>
+    <published>2018-04-16T11:19:45-07:00</published>
+    <updated>2018-04-16T11:19:45-07:00</updated>
+	<content type="html"><![CDATA[
+Parent committee meetings are normally held the second Sunday of the month from 6:30-8:00PM at Gloria Dei Lutheran Church. Dates occasionally change so please refer to our events calendar.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Resources coming soon ...</title>
+    <link href="http://pack91orcutt.org/resources/resource-two/"/>
+	<id>http://pack91orcutt.org/resources/resource-two/</id>
+    <published>2018-04-16T11:19:00-07:00</published>
+    <updated>2018-04-16T11:19:00-07:00</updated>
+	<content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Resources coming soon ...</title>
+    <link href="http://pack91orcutt.org/resources/resource-one/"/>
+	<id>http://pack91orcutt.org/resources/resource-one/</id>
+    <published>2018-04-16T11:18:50-07:00</published>
+    <updated>2018-04-16T11:18:50-07:00</updated>
+	<content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>How to Join</title>
+    <link href="http://pack91orcutt.org/join/"/>
+	<id>http://pack91orcutt.org/join/</id>
+    <published>2018-04-16T11:17:55-07:00</published>
+    <updated>2018-04-16T11:17:55-07:00</updated>
+	<content type="html"><![CDATA[
+Anytime is a great time to join Pack 91!
+Call us at (805) 253-CUBS to find out about our next Pack activity, and how you can join us.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Contact</title>
+    <link href="http://pack91orcutt.org/contact/"/>
+	<id>http://pack91orcutt.org/contact/</id>
+    <published>2018-04-16T11:17:41-07:00</published>
+    <updated>2018-04-16T11:17:41-07:00</updated>
+	<content type="html"><![CDATA[
+Pack leaders may be contacted through the Pack phone number (805) 253-CUBS
+You can also send us a message through our Facebook page.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>About Our Pack</title>
+    <link href="http://pack91orcutt.org/about/"/>
+	<id>http://pack91orcutt.org/about/</id>
+    <published>2018-04-16T11:17:17-07:00</published>
+    <updated>2018-04-16T11:17:17-07:00</updated>
+	<content type="html"><![CDATA[
+Cub Scout Pack 91, Orcutt, is a family-friendly Scouting group. We strive to provide a complete Cub Scout experience to our scouts.
+]]></content>
+  </entry>
+	
+</feed>

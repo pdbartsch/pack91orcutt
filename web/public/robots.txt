@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /secretloginpage
+
+Sitemap: http://pack91orcutt.org/sitemap.xml

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minutes on Cub Scout Pack 91 Orcutt</title>
+    <link>http://pack91orcutt.org/minutes/</link>
+    <description>Recent content in Minutes on Cub Scout Pack 91 Orcutt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pack 91 Orcutt</copyright>
+    <lastBuildDate>Tue, 17 Apr 2018 16:28:43 -0700</lastBuildDate>
+    
+	<atom:link href="http://pack91orcutt.org/minutes/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>March 2018 Minutes</title>
+      <link>http://pack91orcutt.org/minutes/march-2018-minutes/</link>
+      <pubDate>Tue, 17 Apr 2018 16:28:43 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/minutes/march-2018-minutes/</guid>
+      <description>Our adopted parent committee minutes will be posted here each month.
+You can view or download using the controls below.</description>
+    </item>
+    
+  </channel>
+</rss>

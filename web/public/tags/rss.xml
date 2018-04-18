@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cub Scout Pack 91 Orcutt</title>
+    <link>http://pack91orcutt.org/tags/</link>
+    <description>Recent content in Tags on Cub Scout Pack 91 Orcutt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pack 91 Orcutt</copyright>
+    
+	<atom:link href="http://pack91orcutt.org/tags/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

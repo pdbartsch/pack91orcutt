@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Cub Scout Pack 91 Orcutt</title>
+    <link>http://pack91orcutt.org/resources/</link>
+    <description>Recent content in Resources on Cub Scout Pack 91 Orcutt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Pack 91 Orcutt</copyright>
+    <lastBuildDate>Mon, 16 Apr 2018 11:19:00 -0700</lastBuildDate>
+    
+	<atom:link href="http://pack91orcutt.org/resources/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Resources coming soon ...</title>
+      <link>http://pack91orcutt.org/resources/resource-two/</link>
+      <pubDate>Mon, 16 Apr 2018 11:19:00 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/resources/resource-two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources coming soon ...</title>
+      <link>http://pack91orcutt.org/resources/resource-one/</link>
+      <pubDate>Mon, 16 Apr 2018 11:18:50 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/resources/resource-one/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
