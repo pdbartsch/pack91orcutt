@@ -103,7 +103,7 @@ params:
 
     # Sites should customize their logo or wordmark here; Provided via partials/logo.html.
     # used in default navigation and footer.
-    logotype: '<span class="has-text-weight-bold">Cub Scouts <span class="has-text-danger">Pack 91</span></span>'
+    logotype: '<span class="has-text-weight-bold">Cub Scout <span class="has-text-danger">Pack 91 - Orcutt, CA</span></span>'
     footer: '<p>
               <a href="http://www.scouting.org/">Boy Scouts of America</a> |
               <a href="https://myscouting.scouting.org/">My Scouting</a> |
