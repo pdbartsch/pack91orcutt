@@ -146,35 +146,40 @@ menu:
           identifier: "join"
           weight: 30
 
+        - name: "Pack 91 Photos"
+          url: "photo-gallery/"
+          identifier: "photos"
+          weight: 40
+
         - name: "Resources"
           url: "resources/"
           identifier: "resources"
-          weight: 40
+          weight: 50
 
         - name: "Resource One"
           url: "resources/resource-one/"
           parent: "resources"
-          weight: 401
+          weight: 501
 
         - name: "Resource Two"
           url: "resources/resource-two/"
           parent: "resources"
-          weight: 402
+          weight: 502
 
         - name: "Posts"
           url: "posts/"
           identifier: "posts"
-          weight: 50
+          weight: 60
 
         - name: "Parent Committee"
           url: "committee/"
           identifier: "committee"
-          weight: 60
+          weight: 70
 
         - name: "Meeting Minutes"
           url: "minutes/"
           parent: "committee"
-          weight: 601
+          weight: 701
 
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------
