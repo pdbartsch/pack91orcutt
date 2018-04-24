@@ -106,11 +106,11 @@ params:
     logotype: '<span class="has-text-weight-bold">Cub Scout <span class="has-text-danger">Pack 91 - Orcutt, CA</span></span>'
     footer: '<p>
               <a href="http://www.scouting.org/">Boy Scouts of America</a> |
-              <a href="https://myscouting.scouting.org/">My Scouting</a> |
+              <a href="https://my.scouting.org/">My Scouting</a> |
               <a href="http://www.lpcbsa.org/">Los Padres Council</a> |
               <a href="http://www.doubleknot.com/openrosters/view_homepage.asp?orgkey=1647">Live Oak District</a> |
               <a href="http://www.troop91orcutt.org/">Troop 91</a>  |
-              <a href="http://post534orcutt.org/">The American Legion Post 534</a>
+              <a href="http://post534.org/">The American Legion Post 534</a>
             </p>'
     subfooter: '<p><span>Like us on Facebook:</span> <a href="https://www.facebook.com/pages/Pack-91-of-Orcutt-CA/156572197687589" target="_blank" title="Like Pack 91 on Facebook"><img src="img/likeonfacebook.png"  width="25" height="25" align="top"></a></p>'
 
@@ -156,15 +156,20 @@ menu:
           identifier: "resources"
           weight: 50
 
-        - name: "Resource One"
-          url: "resources/resource-one/"
+        - name: "Magazines"
+          url: "resources/magazines/"
           parent: "resources"
           weight: 501
 
-        - name: "Resource Two"
-          url: "resources/resource-two/"
+        - name: "Scout Camps"
+          url: "resources/camps/"
           parent: "resources"
           weight: 502
+
+        - name: "Pinewood Derby"
+          url: "resources/derby/"
+          parent: "resources"
+          weight: 503
 
         - name: "Posts"
           url: "posts/"
@@ -176,10 +181,6 @@ menu:
           identifier: "committee"
           weight: 70
 
-        - name: "Meeting Minutes"
-          url: "minutes/"
-          parent: "committee"
-          weight: 701
 
 
 # Syndication feeds atom.xml and rss.xml ---------------------------------

@@ -4,10 +4,11 @@ date: 2018-04-16T11:17:55-07:00
 draft: false
 ---
 
+---
 
 Anytime is a great time to join Pack 91!
 
-Call us at (805) 253-CUBS to find out about our next Pack activity, and how you can join us.
+[Contact us](/contact) to find out about our next Pack activity, and how you can join us.
 
 Boys are placed in a "Den" based on their school grade, which will meet about every other week.  Once a month a Pack meeting for all the boys is also held.
 

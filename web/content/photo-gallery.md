@@ -8,4 +8,6 @@ series: "front"
 ##tags: ["",""]
 ---
 
+---
+
 {{< gallery dir="/img/gallery/" />}}

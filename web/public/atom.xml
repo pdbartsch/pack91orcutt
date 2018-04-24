@@ -4,11 +4,45 @@
 	<link href="http://pack91orcutt.org/atom.xml" rel="self"/>
 	<link href="http://pack91orcutt.org/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-04-18T11:13:23-07:00</updated>
+	<updated>2018-04-24T00:00:00+00:00</updated>
 	<id>http://pack91orcutt.org/</id>
 	<author>
 		<name>Pack 91</name>
 	</author>
+  <entry>
+	<title>Magazines</title>
+    <link href="http://pack91orcutt.org/resources/magazines/"/>
+	<id>http://pack91orcutt.org/resources/magazines/</id>
+    <published>2018-04-24T00:00:00+00:00</published>
+    <updated>2018-04-24T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Boys Life Magazine http://boyslife.org/
+Games, articles, fun projects, hobbies, sports, pictures and more for scouts and adults too! Scouts that get Boys Life are more likely to stay involved with scouting.
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Pinewood Derby</title>
+    <link href="http://pack91orcutt.org/resources/derby/"/>
+	<id>http://pack91orcutt.org/resources/derby/</id>
+    <published>2018-04-24T00:00:00+00:00</published>
+    <updated>2018-04-24T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+ Official Pinewood Derby Website Pack 91 Rules 2018 Live Oak District Rules 2018  
+]]></content>
+  </entry>
+	
+  <entry>
+	<title>Scout Camps</title>
+    <link href="http://pack91orcutt.org/resources/camps/"/>
+	<id>http://pack91orcutt.org/resources/camps/</id>
+    <published>2018-04-24T00:00:00+00:00</published>
+    <updated>2018-04-24T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Rancho Alegre - Los Padres Council    Rancho Alegre Camp Map Outdoor School GPS Waypoint KMZ File         Less than an hour from the Santa Maria Valley, Rancho Alegre is right in our backyard.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Photo Gallery</title>
     <link href="http://pack91orcutt.org/photo-gallery/"/>
@@ -29,7 +63,7 @@ Pack 91 01
     <published>2018-04-17T17:14:20-07:00</published>
     <updated>2018-04-17T17:14:20-07:00</updated>
 	<content type="html"><![CDATA[
-Thanks for stopping by the new site for Cub Scout Pack 91 in Orcutt, CA!
+Thanks for stopping by to learn more about Cub Scout Pack 91 in Orcutt, CA!
 Please check back here often and make sure to subscribe to our new calendar.
 ]]></content>
   </entry>
@@ -41,6 +75,8 @@ Please check back here often and make sure to subscribe to our new calendar.
     <published>2018-04-17T16:43:50-07:00</published>
     <updated>2018-04-17T16:43:50-07:00</updated>
 	<content type="html"><![CDATA[
+Occasionally we&rsquo;ll list community events here that are not sponsored by Pack 91.
+Those events will begin with [COMMUNITY].
   
 ]]></content>
   </entry>
@@ -64,29 +100,7 @@ You can view or download using the controls below.
     <published>2018-04-16T11:19:45-07:00</published>
     <updated>2018-04-16T11:19:45-07:00</updated>
 	<content type="html"><![CDATA[
-Parent committee meetings are normally held the second Sunday of the month from 6:30-8:00PM at Gloria Dei Lutheran Church. Dates occasionally change so please refer to our events calendar.
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>Resources coming soon ...</title>
-    <link href="http://pack91orcutt.org/resources/resource-two/"/>
-	<id>http://pack91orcutt.org/resources/resource-two/</id>
-    <published>2018-04-16T11:19:00-07:00</published>
-    <updated>2018-04-16T11:19:00-07:00</updated>
-	<content type="html"><![CDATA[
-
-]]></content>
-  </entry>
-	
-  <entry>
-	<title>Resources coming soon ...</title>
-    <link href="http://pack91orcutt.org/resources/resource-one/"/>
-	<id>http://pack91orcutt.org/resources/resource-one/</id>
-    <published>2018-04-16T11:18:50-07:00</published>
-    <updated>2018-04-16T11:18:50-07:00</updated>
-	<content type="html"><![CDATA[
-
+Parent committee meetings are normally held the second Sunday of each month from 6:30-8:00PM at Gloria Dei Lutheran Church. Dates may change so please refer to our events calendar and subscribe to our email list.
 ]]></content>
   </entry>
 	
@@ -98,7 +112,7 @@ Parent committee meetings are normally held the second Sunday of the month from 
     <updated>2018-04-16T11:17:55-07:00</updated>
 	<content type="html"><![CDATA[
 Anytime is a great time to join Pack 91!
-Call us at (805) 253-CUBS to find out about our next Pack activity, and how you can join us.
+Contact us to find out about our next Pack activity, and how you can join us.
 ]]></content>
   </entry>
 	
@@ -109,8 +123,8 @@ Call us at (805) 253-CUBS to find out about our next Pack activity, and how you 
     <published>2018-04-16T11:17:41-07:00</published>
     <updated>2018-04-16T11:17:41-07:00</updated>
 	<content type="html"><![CDATA[
-Pack leaders may be contacted through the Pack phone number (805) 253-CUBS
-You can also send us a message through our Facebook page.
+Contact pack leaders through the Pack phone number: (805) 253-CUBS
+ Send us a message through our Facebook page.
 ]]></content>
   </entry>
 	
