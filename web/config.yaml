@@ -131,12 +131,12 @@ params:
 # NOTE: Don't put leading "/" in the url parameter
 menu:
     sectionmenu:
-        - name: "About Our Pack"
+        - name: "About Us"
           url: "about/"
           identifier: "about"
           weight: 10
 
-        - name: "Contact Us"
+        - name: "Contact"
           url: "contact/"
           identifier: "contact"
           weight: 20
@@ -146,40 +146,45 @@ menu:
           identifier: "join"
           weight: 30
 
-        - name: "Pack 91 Photos"
+        - name: "Calendar"
+          url: "events-calendar/"
+          identifier: "calendar"
+          weight: 40
+
+        - name: "Photos"
           url: "photo-gallery/"
           identifier: "photos"
-          weight: 40
+          weight: 50
 
         - name: "Resources"
           url: "resources/"
           identifier: "resources"
-          weight: 50
+          weight: 60
 
         - name: "Magazines"
           url: "resources/magazines/"
           parent: "resources"
-          weight: 501
+          weight: 601
 
         - name: "Scout Camps"
           url: "resources/camps/"
           parent: "resources"
-          weight: 502
+          weight: 602
 
         - name: "Pinewood Derby"
           url: "resources/derby/"
           parent: "resources"
-          weight: 503
+          weight: 603
 
         - name: "Posts"
           url: "posts/"
           identifier: "posts"
-          weight: 60
+          weight: 70
 
         - name: "Parent Committee"
           url: "committee/"
           identifier: "committee"
-          weight: 70
+          weight: 80
 
 
 
