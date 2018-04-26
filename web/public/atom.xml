@@ -4,11 +4,23 @@
 	<link href="http://pack91orcutt.org/atom.xml" rel="self"/>
 	<link href="http://pack91orcutt.org/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-04-25T08:14:35-07:00</updated>
+	<updated>2018-04-26T09:50:29-07:00</updated>
 	<id>http://pack91orcutt.org/</id>
 	<author>
 		<name>Pack 91</name>
 	</author>
+  <entry>
+	<title>How to Unsubscribe</title>
+    <link href="http://pack91orcutt.org/posts/how-to-unsubscribe/"/>
+	<id>http://pack91orcutt.org/posts/how-to-unsubscribe/</id>
+    <published>2018-04-26T09:50:29-07:00</published>
+    <updated>2018-04-26T09:50:29-07:00</updated>
+	<content type="html"><![CDATA[
+If, for any reason, you&rsquo;d like to unsubscribe from our mailing list you may do so here.
+See these screenshots if you have any trouble.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>Live Oak District Day Camp 2018</title>
     <link href="http://pack91orcutt.org/posts/district-day-camp/"/>
@@ -50,7 +62,7 @@ Games, articles, fun projects, hobbies, sports, pictures and more for scouts and
     <published>2018-04-24T00:00:00+00:00</published>
     <updated>2018-04-24T00:00:00+00:00</updated>
 	<content type="html"><![CDATA[
-Rancho Alegre - Los Padres Council    Rancho Alegre Camp Map Outdoor School GPS Waypoint KMZ File       Less than an hour from the Santa Maria Valley, Rancho Alegre is right in our backyard.
+Rancho Alegre - Los Padres Council    Rancho Alegre Camp Map Outdoor School GPS Waypoint KMZ File         Less than an hour from the Santa Maria Valley, Rancho Alegre is right in our backyard.
 ]]></content>
   </entry>
 	
@@ -62,8 +74,8 @@ Rancho Alegre - Los Padres Council    Rancho Alegre Camp Map Outdoor School GPS 
     <updated>2018-04-18T11:13:23-07:00</updated>
 	<content type="html"><![CDATA[
 Pack 91 01
-      Pack 91 02
-      Pack 91 03
+Pack 91 02
+Pack 91 03
 ]]></content>
   </entry>
 	

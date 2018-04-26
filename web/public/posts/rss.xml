@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Pack 91 Orcutt</copyright>
-    <lastBuildDate>Wed, 25 Apr 2018 08:14:35 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 09:50:29 -0700</lastBuildDate>
     
 	<atom:link href="http://pack91orcutt.org/posts/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Unsubscribe</title>
+      <link>http://pack91orcutt.org/posts/how-to-unsubscribe/</link>
+      <pubDate>Thu, 26 Apr 2018 09:50:29 -0700</pubDate>
+      
+      <guid>http://pack91orcutt.org/posts/how-to-unsubscribe/</guid>
+      <description>If, for any reason, you&amp;rsquo;d like to unsubscribe from our mailing list you may do so here.
+See these screenshots if you have any trouble.</description>
+    </item>
     
     <item>
       <title>Live Oak District Day Camp 2018</title>
