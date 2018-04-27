@@ -10,10 +10,10 @@
 				<div class="column is-centered">
 					<div class="content">
 					{{ .Content }}
-					<figure>
+
   					<img src="img/title.png">
-					</figure>
-						<h2>Welcome!</h2>
+
+						<h3>Welcome!</h3>
 							<p>Thank you for your interest in Cub Scouts. We have information here for current and future scouts and parents. </p>
 							<p>Please join us at any upcoming event or <a href="/contact"> contact us</a> for further information.</p>
 
@@ -27,36 +27,45 @@
 								<!--<li><a href="{{ "posts/" | absURL}}">More posts<span class="icon">➤</span></a></li> -->
 								</ul>
 							<hr />
+<h3><a href="/events-calendar"><b>Upcoming Events! </b></a></h3>
+							<p>
+								Occasionally we'll list community events here that are not sponsored by Pack 91.
+								Those events will begin with [COMMUNITY].
+							</p>
 						</div>
+
+						<div class="calendar-frontpage is-hidden-tablet">
+							<H3>View our <a href="/events-calendar">events calendar</a></H3>
+						</div>
+
+						<div class="calendar-frontpage is-hidden-mobile">
+							<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=310&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8erjh6chau1fm4rq5ndfhi1rpg%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="450" height="310" frameborder="0" scrolling="no"></iframe>
+						</div>
+
+
 					</div>
 				</div>
 			</div>
 
 		</div>
+
+
+
+
+
+
 	</div>
 
 
 
-	<div class="body">
-		<div class="container">
-					<div class="columns ">
-						<div class="column is-centered">
-							<p>
-								<a href="/events-calendar"><b>Upcoming Events! </b></a> Occasionally we'll list community events here that are not sponsored by Pack 91.
-								Those events will begin with [COMMUNITY].
-							</p>
-							<div class="calendar-frontpage">
-							<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=310&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=8erjh6chau1fm4rq5ndfhi1rpg%40group.calendar.google.com&amp;color=%2323164E&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="450" height="310" frameborder="0" scrolling="no"></iframe>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+
+
+
 
 
 
 
 	<div class="hero-foot">
-{{ partial "footer.html" . }}
+		{{ partial "footer.html" . }}
 	</div>
 </section>
