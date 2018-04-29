@@ -112,7 +112,7 @@ params:
               <a href="http://www.troop91orcutt.org/">Troop 91</a>  |
               <a href="http://post534.org/">The American Legion Post 534</a>
             </p>'
-    subfooter: '<p><span>Like us on Facebook:</span> <a href="https://www.facebook.com/pages/Pack-91-of-Orcutt-CA/156572197687589" target="_blank" title="Like Pack 91 on Facebook"><img src="img/likeonfacebook.png"  width="25" height="25" align="top"></a></p>'
+    subfooter: '<p><span>Like us on Facebook:</span> <a href="https://fb.me/Pack91Orcutt" title="Like Pack 91 on Facebook"><img src="img/likeonfacebook.png"  width="25" height="25" align="top"></a></p>'
 
     # Optional information used in RSS, Atom and JSON-LD microdata. See Schema.org.
     publisher:
