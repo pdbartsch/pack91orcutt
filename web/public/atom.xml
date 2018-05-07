@@ -4,11 +4,23 @@
 	<link href="http://pack91orcutt.org/atom.xml" rel="self"/>
 	<link href="http://pack91orcutt.org/"/>
 	<generator uri="https://gohugo.io/" version=".Hugo.Version">Hugo -- gohugo.io</generator>
-	<updated>2018-04-26T09:50:29-07:00</updated>
+	<updated>2018-05-07T00:00:00+00:00</updated>
 	<id>http://pack91orcutt.org/</id>
 	<author>
 		<name>Pack 91</name>
 	</author>
+  <entry>
+	<title>April 2018 Minutes</title>
+    <link href="http://pack91orcutt.org/minutes/april-2018-minutes/"/>
+	<id>http://pack91orcutt.org/minutes/april-2018-minutes/</id>
+    <published>2018-05-07T00:00:00+00:00</published>
+    <updated>2018-05-07T00:00:00+00:00</updated>
+	<content type="html"><![CDATA[
+Our adopted parent committee minutes will be posted here each month.
+You can view or download using the controls below.
+]]></content>
+  </entry>
+	
   <entry>
 	<title>How to Unsubscribe</title>
     <link href="http://pack91orcutt.org/posts/how-to-unsubscribe/"/>
@@ -73,9 +85,7 @@ Rancho Alegre - Los Padres Council    Rancho Alegre Camp Map Outdoor School GPS 
     <published>2018-04-18T11:13:23-07:00</published>
     <updated>2018-04-18T11:13:23-07:00</updated>
 	<content type="html"><![CDATA[
-Pack 91 01
-      Pack 91 02
-      Pack 91 03
+                                     
 ]]></content>
   </entry>
 	
