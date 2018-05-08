@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Pack 91 Orcutt</copyright>
-    <lastBuildDate>Tue, 17 Apr 2018 16:28:43 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://pack91orcutt.org/minutes/rss.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>April 2018 Minutes</title>
+      <link>http://pack91orcutt.org/minutes/april-2018-minutes/</link>
+      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://pack91orcutt.org/minutes/april-2018-minutes/</guid>
+      <description>Our adopted parent committee minutes will be posted here each month.
+You can view or download using the controls below.</description>
+    </item>
     
     <item>
       <title>March 2018 Minutes</title>

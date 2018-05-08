@@ -7,37 +7,40 @@ Documentation and licence at https://github.com/liwenyip/hugo-easy-gallery/
 /*
 Grid Layout Styles
 */
+
+
 .gallery {
     overflow: hidden;
     margin: 10px;
-    max-width: 768px;
+    max-width: 100%;
 }
+
 .gallery .box {
     float: left;
     position: relative;
     /* Default: 1 tile wide */
     width: 100%;
-    padding-bottom: 100%; 
+    padding-bottom: 20%;
 }
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
     .gallery .box {
         width: 50%;
-        padding-bottom: 50%;
+        padding-bottom: 30%;
     }
 }
 @media only screen and (min-width : 480px) {
     /* Small desktop / ipad view: 3 tiles */
     .gallery .box {
-        width: 33.3%;
-        padding-bottom: 33.3%; /*  */
+        width: 50%;
+        padding-bottom: 30%; /*  */
     }
 }
-@media only screen and (min-width : 9999px) {
+@media only screen and (min-width : 640px) {
    /* Medium desktop: 4 tiles */
    .box {
-      width: 25%;
-      padding-bottom: 25%;
+      width: 33.3%;
+      padding-bottom: 30%;
    }
 }
 
@@ -45,7 +48,7 @@ Grid Layout Styles
 Transition styles
 */
 .gallery.hover-transition figure,
-.gallery.hover-effect-zoom .img, 
+.gallery.hover-effect-zoom .img,
 .gallery:not(.caption-effect-appear) figcaption,
 .fancy-figure:not(.caption-effect-appear) figcaption {
     -webkit-transition: all 0.3s ease-in-out;
@@ -56,10 +59,7 @@ Transition styles
 /*
 figure styles
 */
-figure {
-    position:relative; /* purely to allow absolution positioning of figcaption */
-    overflow: hidden;
-}
+
 .gallery figure {
     position: absolute;
     left: 5px;
@@ -91,22 +91,13 @@ img / a styles
     top: 0;
     bottom: 0;
     background-size: cover;
-    background-position: 50% 50%;
+
     background-repeat: no-repeat;
 }
 .gallery.hover-effect-zoom figure:hover .img {
     transform: scale(1.05);
 }
-.gallery img {
-    display: none; /* only show the img if not inside a gallery */
-}
-figure a {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-}
+
 
 /*
 figcaption styles
@@ -156,4 +147,3 @@ figcaption styles
 figcaption p {
     margin: auto; /* override style in theme */
 }
-
