@@ -2,7 +2,7 @@
 title: "March 2018 Minutes"
 date: 2018-04-17T16:28:43-07:00
 draft: false
-series: "front"
+series: 
 ---
 
 Our adopted parent committee minutes will be posted [here](minutes) each month.  
