@@ -36,6 +36,8 @@ Monday through Friday July 9-13, 2018
   <li><a href="/files/2018DenChiefRegistration.docx">Den Chief Registration</a></li>
   <li><a href="/files/2018ScoutRegistration.docx">Scout Registration</a></li>
   <li><a href="/files/2018Tot-LotRegistration.docx">Tot-Lot Registration</a></li>
+  <li><a href="/files/ShootingSportsPermission.pdf">Shooting Sports Permission</a></li>
+
 </ul>
 Please return all completed forms to the [Santa Maria Scout Store](https://goo.gl/maps/B5H7rY7Mwsv)
 
