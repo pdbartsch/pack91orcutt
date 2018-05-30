@@ -12,6 +12,9 @@ The Live Oak District Day Camp will be a fun and educational time for the kids a
 
 All registered Cub Scouts are welcome. If your child is not a registered Cub Scout, reach out to us and we'll help get your child [registered into our pack](/join) before signing up for day camp.
 
+Each Day Scouts will participate in a Shooting Activity (BB Guns, Archery, and Sling Shots), Cooking Activity, Scout Skill, Physical Fitness, Craft, and STEM related activities all while traveling the globe to discover what children in other countries do to celebrate their culture!
+
+[Here is a flyer](/files/2018LiveOakDistrictDayCampFlyer.pdf) with more info.
 
 ### When:
 Monday through Friday July 9-13, 2018
@@ -37,6 +40,7 @@ Monday through Friday July 9-13, 2018
   <li><a href="/files/2018ScoutRegistration.docx">Scout Registration</a></li>
   <li><a href="/files/2018Tot-LotRegistration.docx">Tot-Lot Registration</a></li>
   <li><a href="/files/ShootingSportsPermission.pdf">Shooting Sports Permission</a></li>
+  <li><a href="/files/BSA_MedicalForm_A_B.pdf">BSA Medical Form Parts A & B</a></li>
 
 </ul>
 Please return all completed forms to the [Santa Maria Scout Store](https://goo.gl/maps/B5H7rY7Mwsv)
