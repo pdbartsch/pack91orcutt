@@ -21,7 +21,7 @@
 							<hr />
 								<h3 class="subtitle has-text-primary is-marginless">Recent Posts:</h3>
 								<ul>
-								{{ range first 5 (where .Site.Pages "Params.series" "front") }}
+								{{ range first 7 (where .Site.Pages "Params.series" "front") }}
 								<li><a href="{{.Permalink}}"><span class="icon">✎</span>{{.Title }}</a></li>
 								{{ end }}
 								<!--<li><a href="{{ "posts/" | absURL}}">More posts<span class="icon">➤</span></a></li> -->
