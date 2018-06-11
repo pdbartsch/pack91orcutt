@@ -11,7 +11,7 @@ Hi Scouts, Scout families and future Scouting families!  Please join us for some
 
 Please bring water, sunscreen, adequate footwear and a light snack to all hikes.  
 
-Please check back here often, subscribe to our [calendar](/events-calendar) or follow us on [Facebook](https://fb.me/Pack91Orcutt).  We hope to add even more fun activities throughout the summer.  If you have suggestions or would like to lead an activity please contact us through [this feedback form.](https://goo.gl/forms/VXiXt1n0fxWLlfYp1).
+Please check back here often, subscribe to our [calendar](/events-calendar) or follow us on [Facebook](https://fb.me/Pack91Orcutt).  We hope to add even more fun activities throughout the summer.  [Here is the upcoming events flyer](/files/2018SummertimePack91Events.pdf) we passed out at the June 10, 2018 Pack meeting.  If you have suggestions or would like to lead an activity please contact us through [this feedback form.](https://goo.gl/forms/VXiXt1n0fxWLlfYp1).
 
 [**National Summertime Pack Award:**](https://www.scouting.org/awards/awards-central/national-summertime/) **Scouts** who participate in three summertime pack events (one each in June, July, and August) are eligible to receive the [National Summertime Award pin!](https://meritbadge.org/wiki/index.php/National_Summertime_Award).  **Dens** with an average attendance of at least half their members at the three summer pack events are eligible for a colorful den participation ribbon.
 
