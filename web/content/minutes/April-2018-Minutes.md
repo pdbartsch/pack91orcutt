@@ -5,7 +5,7 @@ draft: false
 series: 
 ---
 
-Our adopted parent committee minutes will be posted [here](minutes) each month.  
+Our parent committee minutes will be posted [here](minutes) each month.  
 You can view or download using the controls below.  
 
 {{< box-preview id="2dld9h1tqgrwrqz9c0fg13mqlto4hjz0" height="400" >}}
