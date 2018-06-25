@@ -12,7 +12,7 @@ series: "front"
 <div class="columns">
   <div class="column">
     <figure class="image is-4by3">
-        <img src="\img\gallery\pack_91_01.jpg">
+        <img src="\img\gallery\pack_91_10.jpg">
     </figure>
   </div>
 </div>
@@ -26,9 +26,37 @@ series: "front"
     <figure class="image is-4by3">
         <img src="\img\gallery\pack_91_02.jpg">
     </figure>
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_03.jpg">
+    </figure>
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_04.jpg">
+    </figure>  
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_05.jpg">
+    </figure>
+ 
   </div>
   <div class="column">
-    Second column
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_06.jpg">
+    </figure>
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_07.jpg">
+    </figure>
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_08.jpg">
+    </figure>
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_09.jpg">
+    </figure>  
+
   </div>
   
 </div>
