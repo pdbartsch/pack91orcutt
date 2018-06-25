@@ -9,5 +9,26 @@ series: "front"
 ---
 
 ---
+<div class="columns">
+  <div class="column">
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_01.jpg">
+    </figure>
+  </div>
+</div>
 
-{{< gallery dir="/img/gallery/" />}}
+<div class="columns">
+  <div class="column">
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_01.jpg">
+    </figure>
+
+    <figure class="image is-4by3">
+        <img src="\img\gallery\pack_91_02.jpg">
+    </figure>
+  </div>
+  <div class="column">
+    Second column
+  </div>
+  
+</div>
