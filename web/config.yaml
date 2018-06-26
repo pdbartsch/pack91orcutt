@@ -176,6 +176,11 @@ menu:
           parent: "resources"
           weight: 603
 
+        - name: "Pack Activity Materials"
+          url: "resources/materials/"
+          parent: "resources"
+          weight: 604
+
         - name: "Posts"
           url: "posts/"
           identifier: "posts"
