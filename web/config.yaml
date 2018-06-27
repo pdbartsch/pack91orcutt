@@ -186,9 +186,9 @@ menu:
           identifier: "posts"
           weight: 70
 
-        - name: "Parent Committee"
-          url: "committee/"
-          identifier: "committee"
+        - name: "Parents"
+          url: "parents/"
+          identifier: "parents"
           weight: 80
 
 
