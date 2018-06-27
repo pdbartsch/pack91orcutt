@@ -6,7 +6,7 @@ draft: false
 
 ---
 ### Please Volunteer
-Scouting is an activity for the whole family and Cub Scouting at the pack level is **100% volunteer led**. If your child or grandchild is in the pack, please consider volunteering.  We also appreciate volunteers who want to help plan a single event.
+Scouting is an activity for the whole family and Cub Scouting at the pack level is **100% volunteer led**. If your child or grandchild is in the pack, please consider volunteering in any way you can.
 
 **Current open positions include the following:** 
 
@@ -16,6 +16,12 @@ Scouting is an activity for the whole family and Cub Scouting at the pack level 
 * Friends of Scouting Chair
 * Pack Trainer
 * Lions Den Leader
+
+**Other volunteering ideas:**
+
+* Plan and coordinate an outdoor activity
+* Suggest a fun game
+* Lead a 15 minute lesson about science, art or technology at our next pack meeting
 
 [Here's some more information on the pack committee.](https://www.scouting.org/programs/cub-scouts/leaders/about/the-pack/pcomm/)
 Please contact any adult leader or show up to one of our Parent Committee Meetings to get started. Thanks!
