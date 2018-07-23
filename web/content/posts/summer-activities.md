@@ -38,5 +38,5 @@ Family Hike. Moderate 2 mile loop. We should find dinosaur bones!
 Sunday, August 26th at 2:00pm.  I expect the hike to last about 90 minutes.
 
 #### Where:
-Los Flores Ranch Park (6271 Dominion Road Santa Maria, California).
+Los Flores Ranch Park (6271 Dominion Road Santa Maria, California).  We'll meet in the parking lot.  Please be on time so that we can hike from there as a group.
 {{< google-maps height="300" location="6271 Dominion Road Santa Maria, California">}}
