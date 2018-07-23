@@ -17,19 +17,16 @@ Check back here often, subscribe to our [calendar](/events-calendar) or follow u
 [**National Summertime Pack Award:**](https://www.scouting.org/awards/awards-central/national-summertime/) **Scouts** who participate in three summertime pack events (one each in June, July, and August) are eligible to receive the [National Summertime Award pin!](https://meritbadge.org/wiki/index.php/National_Summertime_Award).  **Dens** with an average attendance of at least half their members at the three summer pack events are eligible for a colorful den participation ribbon.
 
 ## ~~1. Orcutt Hill Hike - Sunday, June 24th at 2pm:~~ COMPLETED
-Family Hike. Moderate 2.25 mile loop.  We'll be learning to identify some of the more common native plants along the way.  
+Family Hike. Moderate 2.25 mile loop.  We'll be learning to identify some of the more common native plants along the way. 
+
 **Update:** Attendance was good and the kids had fun.  Thanks to all who joined us!  
 **We had 32 people on the hike** (18 children & 14 adults)! 
 
-## 2. Rocket Building and Launching - Sunday, July 22nd at 2pm:
+## ~~2. Rocket Building and Launching - Sunday, July 22nd at 2pm:~~ COMPLETED
 Materials provided. Another chance to build your own air powered rocket. These things fly about 200 feet!  Bring a friend!
 
-#### When:
-Sunday, July 22nd at 2:00pm  
-
-#### Where:
-Cobblestone Open Space (off of Stillwell, south of Clark)
-{{< google-maps height="300" location="34.85944,-120.40181">}}
+**Update:** Phew!  We made a lot of rockets!  Thanks to all who joined us!  
+**We had over 25 kids at this one** 
 
 ## 3. Los Flores Ranch Hike - Sunday, August 26th at 2pm:
 
