@@ -11,4 +11,4 @@ series: "front"
 Our parent committee minutes will be posted [here](minutes) each month.  
 You can view or download using the controls below.  
 
-{{< box-preview id="fohv5oqvhkd156qan1yhmcl5xay2rahs" height="400" >}}
+{{< box-preview id="83i6b6f997e478w09p8o0w6hq603khgd" height="400" >}}
