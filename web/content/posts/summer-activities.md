@@ -28,7 +28,29 @@ Materials provided. Another chance to build your own air powered rocket. These t
 **Update:** Phew!  We made a lot of rockets!  Thanks to all who joined us!  
 **We had over 25 kids at this one** 
 
-## 3. Los Flores Ranch Hike - Sunday, August 26th at 2pm:
+## 3. Intro to Geocaching at Los Flores Ranch:
+
+Limited to 15 Scouts. This outdoor treasure hunting game uses GPS or your SMARTPHONE to locate hidden containers called geocaches. Learn how to find them in a fun setting. GPS’s (limited amount) provided or please download the free app at geocaching.com. There will be some off trail hiking. Each participant will receive a cool geocaching swag courtesy of MicroGeoCaches.
+
+#### When:
+Saturday, August 18th from 9:30-11:30am
+
+#### Where:
+Los Flores Ranch Park (6271 Dominion Road Santa Maria, California).  We'll meet at the visitors center.
+{{< google-maps height="300" location="6271 Dominion Road Santa Maria, California">}}
+
+## 4. Huck Finn Fishing Derby:
+Sponsored by Santa Maria Breakfast Rotary & Santa Maria Valley Sportsman's Association during Family Day In the Park/ Healthy Kids Day at Waller Park.
+See Pack emails for more info.
+
+#### When:
+Sunday, August 19th at 11:30am. 
+
+#### Where:
+Large ponds at Waller Park
+{{< google-maps height="300" location="34.9027974,-120.4399348">}}
+
+## 5. Los Flores Ranch Hike - Sunday, August 26th at 2pm:
 
 **Please note the <span style="color:red">change of date </span>** to accomodate the community event, [Family Day @ Waller Park](http://www.familydayinthepark.org/) on August 19th.
 
