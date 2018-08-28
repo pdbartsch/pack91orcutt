@@ -146,10 +146,10 @@ menu:
           identifier: "join"
           weight: 30
 
-        - name: "Calendar"
-          url: "events-calendar/"
-          identifier: "calendar"
-          weight: 40
+#        - name: "Calendar"
+#          url: "events-calendar/"
+#          identifier: "calendar"
+#          weight: 40
 
         - name: "Photos"
           url: "photo-gallery/"
