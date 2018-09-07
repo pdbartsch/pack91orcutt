@@ -16,49 +16,28 @@ Check back here often, subscribe to our [calendar](/events-calendar) or follow u
 
 [**National Summertime Pack Award:**](https://www.scouting.org/awards/awards-central/national-summertime/) **Scouts** who participate in three summertime pack events (one each in June, July, and August) are eligible to receive the [National Summertime Award pin!](https://meritbadge.org/wiki/index.php/National_Summertime_Award).  **Dens** with an average attendance of at least half their members at the three summer pack events are eligible for a colorful den participation ribbon.
 
-## ~~1. Orcutt Hill Hike - Sunday, June 24th at 2pm:~~ COMPLETED
+## ~~1. Orcutt Hill Hike~~ COMPLETED
 Family Hike. Moderate 2.25 mile loop.  We'll be learning to identify some of the more common native plants along the way. 
 
 **Update:** Attendance was good and the kids had fun.  Thanks to all who joined us!  
 **We had 32 people on the hike** (18 children & 14 adults)! 
 
-## ~~2. Rocket Building and Launching - Sunday, July 22nd at 2pm:~~ COMPLETED
+## ~~2. Rocket Building and Launching~~ COMPLETED
 Materials provided. Another chance to build your own air powered rocket. These things fly about 200 feet!  Bring a friend!
 
 **Update:** Phew!  We made a lot of rockets!  Thanks to all who joined us!  
 **We had over 25 kids at this one** 
 
-## 3. Intro to Geocaching at Los Flores Ranch:
+## ~~3. Intro to Geocaching at Los Flores Ranch~~ COMPLETED
 
-Limited to 15 Scouts. This outdoor treasure hunting game uses GPS or your SMARTPHONE to locate hidden containers called geocaches. Learn how to find them in a fun setting. GPS’s (limited amount) provided or please download the free app at geocaching.com. There will be some off trail hiking. Each participant will receive a cool geocaching swag courtesy of MicroGeoCaches.
+This outdoor treasure hunting game uses GPS or your SMARTPHONE to locate hidden containers called geocaches. Learn how to find them in a fun setting. GPS’s (limited amount) provided or please download the free app at geocaching.com. There will be some off trail hiking. Each participant will receive a cool geocaching swag courtesy of MicroGeoCaches.
 
-#### When:
-Saturday, August 18th from 9:30-11:30am
+**Update:** The volunteers at LFRP did a great job teaching compass, mapping, and GPS skills to the young crowd. Most scouts who reserved one of the limited spots showed up.  We all had a great time.
 
-#### Where:
-Los Flores Ranch Park (6271 Dominion Road Santa Maria, California).  We'll meet at the visitors center.
-{{< google-maps height="300" location="6271 Dominion Road Santa Maria, California">}}
-
-## 4. Huck Finn Fishing Derby:
+## ~~4. Huck Finn Fishing Derby~~ COMPLETED
 Sponsored by Santa Maria Breakfast Rotary & Santa Maria Valley Sportsman's Association during Family Day In the Park/ Healthy Kids Day at Waller Park.
-See Pack emails for more info.
 
-#### When:
-Sunday, August 19th at 11:30am. 
+**Update:** They call it fishing not catching but I did see one of our scout families haul in a big catfish.  SMV Sportman's Association was very welcoming and helpful to provide gear and free entry to our scouts.
 
-#### Where:
-Large ponds at Waller Park
-{{< google-maps height="300" location="34.9027974,-120.4399348">}}
-
-## 5. Los Flores Ranch Hike - Sunday, August 26th at 2pm:
-
-**Please note the <span style="color:red">change of date </span>** to accomodate the community event, [Family Day @ Waller Park](http://www.familydayinthepark.org/) on August 19th.
-
+## ~~5. Los Flores Ranch Hike~~ COMPLETED
 Family Hike. Moderate 2 mile loop. We should find dinosaur bones!
-
-#### When:
-Sunday, August 26th at 2:00pm.  I expect the hike to last about 90 minutes.
-
-#### Where:
-Los Flores Ranch Park (6271 Dominion Road Santa Maria, California).  We'll meet in the parking lot.  Please be on time so that we can hike from there as a group.
-{{< google-maps height="300" location="6271 Dominion Road Santa Maria, California">}}
