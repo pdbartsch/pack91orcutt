@@ -14,12 +14,12 @@ Children are placed in a "Den" based on their school grade and gender, which wil
 
 Pack 91 also schedules numerous fun outings for the scouts that include activities like a visit to a waterpark, campout, pool-swim day, hike, canned food collection, Pine Wood Derby, etc. Trained volunteer leaders help the scouts advance in character through fun activities. Come join us !
 
+## Pack 91 Welcome Packet:
+* [Read over our welcome packet for more information](/files/welcome.pdf)
+
 ## Application Forms For Print:
 * [Youth Application](https://filestore.scouting.org/filestore/pdf/524-406.pdf)
 * [Adult Volunteer Application](https://filestore.scouting.org/filestore/CubScoutMeetingGuide/PDF/524-501A.pdf)
 
 ## Online Application:
 * [Pack 91 Online Application](https://my.bsa.us/053paa0091mb)
-* QR Code To Online Application:
-
-![alt text](/img/qrcode.png "Pack 91 QR Code")
