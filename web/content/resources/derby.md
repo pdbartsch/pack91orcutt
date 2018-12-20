@@ -5,5 +5,5 @@ draft: false
 ---
 ---
  * [Official Pinewood Derby Website](http://www.pinewoodderby.org/)
- * [Pack 91 Rules 2018](/files/2018_Pack91_DerbyRules.pdf)
+ * [Pack 91 Rules]( {{< ref "/posts/2019-Pack-91-Pinewood-Derby-Rules" >}} )
  * [Live Oak District Rules 2018](/files/2018_LiveOakDistrict_DerbyRules.pdf)
