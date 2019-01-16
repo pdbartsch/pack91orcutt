@@ -19,7 +19,7 @@ title: "Cub Scout Pack 91 Orcutt"
 # author name appears in RSS and Atom feeds;
 # author email address is optional and can be # commented out.
 author:
-    name: "Pack 91"
+    name: "Paul Bartsch for Pack 91 Orcutt"
 #    email: "thisemaildoesnotexist@www.example.com"
 
 # copyright appears in the default site footer
@@ -180,6 +180,11 @@ menu:
           url: "resources/materials/"
           parent: "resources"
           weight: 604
+
+        - name: "Meeting Minutes"
+          url: "minutes"
+          parent: "resources"
+          weight: 605
 
         - name: "Posts"
           url: "posts/"

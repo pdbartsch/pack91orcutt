@@ -30,10 +30,13 @@ Please contact any adult leader or show up to one of our Parent Committee Meetin
 If you would like to volunteer, recommend pack activities or provide feedback, [please fill out this form](https://goo.gl/forms/VXiXt1n0fxWLlfYp1).
 
 ### Pack committee meetings
-All scout parents/guardians/grandparents are welcome.  This is the time where many upcoming events are planned so it is your opportunity to suggest activities and help shape the pack. Normally held the second Sunday of each month from 6:30-8:00PM at Gloria Dei Lutheran Church.
-Dates may change so please refer to our [events calendar](/events-calendar) and [subscribe to our email list](http://list.pack91orcutt.org/mailman/listinfo/pack). Our recent [meeting minutes are available here](/minutes).
+All adult leaders are asked to attend and parents/guardians/grandparents are welcome.  This is the time when many upcoming events are planned so it is your opportunity to help shape the pack. Normally held the second Sunday of each month from 6:30-8:00PM at Gloria Dei Lutheran Church.
+Dates may change so please refer to our ScoutBook events calendar or contact Paul Bartsch.
 
+### Meeting minutes
+Our recent [meeting minutes are available here](/minutes).
 
+### Our typical meeting location
 {{< google-maps height="300" location="Gloria Dei Lutheran Church, Orcutt, CA 93455" >}}
 
 
