@@ -11,7 +11,7 @@ series: "front"
 
 Remember that our pack is entirely volunteer run.  
 That means we all need to step up when possible to make scouting a great experience for our kids.
-Here is a list of current opportunities:
+Here's a list of current opportunities:
 
 #### Vacant Den Positions:
 * [Boy Tigers Den Leader](https://meritbadge.org/wiki/index.php/Cub_Scout_Den_Leader)
@@ -27,8 +27,8 @@ Here is a list of current opportunities:
 * [New Member Coordinator](https://meritbadge.org/wiki/index.php/Pack_Committee#New_Member_Coordinator_.28NMC.29)
 
 #### Other Opportunities:
-* Someone to plan [Blue & Gold Banquet](https://www.scouting.org/cubhub/what-is-a-blue-and-gold-banquet/) (Planned for February 22, 2020)
+* Someone to plan [Blue & Gold Banquet](https://www.scouting.org/cubhub/what-is-a-blue-and-gold-banquet/) (Scheduled for February 22, 2020 at St Andrew United Methodist Church)
 * Recommend ideas/ help plan a den or pack activity
 * Plan and run a 10 minute game or craft activity at a pack meeting
 
-If you're willing to help with any of this, please contact either Jeff or Paul.  Thanks!
+If you're willing to help with any of this, please contact Jeff or Paul.  Thanks!
