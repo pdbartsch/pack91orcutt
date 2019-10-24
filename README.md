@@ -5,3 +5,8 @@
 * Static site generated with [Hugo](https://gohugo.io/)
 * Using theme: [hugo-smorg](https://github.com/solutionroute/hugo-smorg)
 * CSS framework: [Bulma](bulma.io)
+
+# Frequently useful commands:
+*  `hugo new minutes/May-2019-Minutes.md`
+*  `hugo server -D`
+*  `hugo`

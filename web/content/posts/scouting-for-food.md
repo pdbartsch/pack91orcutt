@@ -1,5 +1,5 @@
 ---
-title: "Scouting for Food"
+title: "Scouting for Food 2019"
 date: 2019-01-15T13:57:31-08:00
 draft: false
 series: "front"
