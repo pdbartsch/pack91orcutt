@@ -20,6 +20,10 @@ In addition to renewing the unit charter, recharter time is when all youth and a
 - In an effort to keep membership in Pack 91 as affordable as possible, our Pack has decided to **lower** pack dues to $20 for the first child and $10 for each additional child.
 - If you decide to sign up for **Boys Life Magazine** the cost is $12 per subscription.
 
+## [Calculator](https://docs.google.com/spreadsheets/d/19GUUVzCz2aum6ZIkY5e8W8rjbnwg60_BLY2iHVUJ2Yo/edit?usp=sharing)
+- Use this spreadsheet to determine your family's total cost 
+- **Be sure to set the correct values for your family.**
+
 ### Cost examples:
 
 - **Total due for a family with 1 scout is::::** $60 BSA fees + $20 pack dues = **$80**
