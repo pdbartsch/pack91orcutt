@@ -1,6 +1,6 @@
 ---
 title: "Pack 91 Pinewood Derby Rules"
-date: 2020-02-14T11:42:44-08:00
+date: 2020-02-14T08:00:00-08:00
 draft: false
 series: "front"
 
