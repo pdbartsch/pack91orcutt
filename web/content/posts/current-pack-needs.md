@@ -7,7 +7,7 @@ series: 'front'
 
 ---
 
-`Last updated 10/7/2019`
+`Last updated 2/14/2020`
 
 Remember that our pack is entirely volunteer run.  
 That means we all need to step up when possible to make scouting a great experience for our kids.
@@ -15,7 +15,6 @@ Here's a list of current opportunities:
 
 #### Vacant Den Positions:
 
-- [Boy Tigers Assistant Den Leader](https://meritbadge.org/wiki/index.php/Assistant_Cub_Scout_Den_Leader)
 
 #### Vacant Pack Committee Positions:
 
