@@ -5,6 +5,6 @@ draft: false
 ---
 ---
  * [Official Pinewood Derby Website](http://www.pinewoodderby.org/)
- * [Pack Rules] ( {{< relref "../posts/Pack-91-Pinewood-Derby-Rules.md" >}})
+ * [Pack Rules](/posts/Pack-91-Pinewood-Derby-Rules)
  * [Live Oak District Rules 2018](/files/2018_LiveOakDistrict_DerbyRules.pdf)
 
